@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "solar")(type "KiCad")(uri "${KIPRJMOD}/solar.kicad_sym")(options "")(descr ""))
+  (lib (name "piphile")(type "KiCad")(uri "/home/drwho/Projects/piphile/piphile.kicad_sym")(options "")(descr ""))
+  (lib (name "282837-2_TYC")(type "KiCad")(uri "${KIPRJMOD}/282837-2_TYC.kicad_sym")(options "")(descr ""))
+)
