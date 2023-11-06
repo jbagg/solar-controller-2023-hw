@@ -1590,7 +1590,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eb022dbc-e095-416e-af1b-584b9a6c6643)
   )
-  (text "v1" (at 271.78 194.31 0)
+  (text "v2" (at 271.78 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f5e29916-8857-4334-808f-55b22e80d177)
   )
