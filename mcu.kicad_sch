@@ -2913,7 +2913,7 @@
     (uuid 1259b92b-7457-4bf4-a93d-8cfb5f1b47e8)
     (property "Reference" "U6" (id 0) (at 146.05 26.67 0))
     (property "Value" "AP7381-33Y-13" (id 1) (at 146.05 29.21 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3" (id 2) (at 146.05 28.575 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3-JB" (id 2) (at 146.05 28.575 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "" (id 3) (at 146.05 34.29 0)
