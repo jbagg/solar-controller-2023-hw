@@ -2528,7 +2528,7 @@
   )
 
   (text "See https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    (at 181.61 176.53 0)
+    (at 181.61 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3be0caab-29f2-4fca-93c0-e9c3d9b541a9)
   )
@@ -2543,6 +2543,10 @@
   (text "Copyright (C) 2023" (at 181.61 171.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8362ccf1-1e7b-4468-8164-785ec3da90a6)
+  )
+  (text "https://github.com/jbagg/solar-controller-2023-hw" (at 181.61 179.07 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 855c3dfa-fc22-4465-abfc-f617eb1a51e0)
   )
   (text "v2" (at 269.24 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

@@ -1578,9 +1578,13 @@
     (uuid 1e62138b-3bfa-431e-b67b-d8654210780d)
   )
   (text "See https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    (at 182.88 176.53 0)
+    (at 182.88 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 34e25883-3aa0-47e2-b1c7-79f84d25cfe0)
+  )
+  (text "https://github.com/jbagg/solar-controller-2023-hw" (at 182.88 179.07 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3adb7487-9e88-460d-9dde-98e04c302669)
   )
   (text "MOVs\n240 VAC = B72214S0271K101\n24 VAC = B72207S0350K101"
     (at 128.27 24.13 0)
