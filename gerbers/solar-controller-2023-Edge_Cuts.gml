@@ -1,11 +1,11 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
-%TF.CreationDate,2023-10-09T20:54:02-04:00*%
+%TF.CreationDate,2023-11-15T16:50:55-05:00*%
 %TF.ProjectId,solar-controller-2023,736f6c61-722d-4636-9f6e-74726f6c6c65,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.5)) date 2023-10-09 20:54:02*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2023-11-15 16:50:55*
 %MOMM*%
 %LPD*%
 G01*
